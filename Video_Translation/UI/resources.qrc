@@ -1,0 +1,6 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="/">
+        <file>interlude_children2.jpg</file>
+    </qresource>
+</RCC>
